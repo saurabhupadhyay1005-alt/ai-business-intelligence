@@ -18,9 +18,7 @@ Plotly
 Streamlit
 Prophet
 
-## 📂 Project Structure
-
-ai-business-intelligence
+## ai-business-intelligence
 │
 ├── dashboard
 │   └── app.py
